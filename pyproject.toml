@@ -2,7 +2,7 @@
 name = "dev-scripts"
 version = "0.1.0"
 description = "scripts to create github repo public or private with httpx or with requests"
-authors = ["mikikop <39693826+mikikop@users.noreply.github.com>"]
+authors = [""]
 readme = "README.md"
 
 [tool.poetry.dependencies]
